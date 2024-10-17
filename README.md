@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheHackerBoi123
 - 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on absolutely nothing.
 - 📫 How to reach me: fireicehackerhackingyolist@gmail.com
 
