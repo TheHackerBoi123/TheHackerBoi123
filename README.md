@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheHackerBoi123
-- 👀 I’m interested in Hacking
+- 👀 I’m interested in web developement
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on absolutely nothing.
 - 📫 How to reach me: fireicehackerhackingyolist@gmail.com
